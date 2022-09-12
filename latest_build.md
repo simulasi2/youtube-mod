@@ -16,3 +16,5 @@ Twitter version: 9.58.1-release.0
 Reddit version: 2022.33.0  
 
 TikTok version: 26.1.16  
+
+[revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)
