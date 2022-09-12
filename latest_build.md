@@ -17,4 +17,6 @@ Reddit version: 2022.33.0
 
 TikTok version: 26.1.16  
 
-[revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)
+[Source](https://github.com/revanced-apks/revanced-apks)
+
+Thanks to [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) for build scripts
