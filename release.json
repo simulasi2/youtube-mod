@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/77419516",
-  "assets_url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/77419516/assets",
-  "upload_url": "https://uploads.github.com/repos/revanced-apks/revanced-apks/releases/77419516/assets{?name,label}",
-  "html_url": "https://github.com/revanced-apks/revanced-apks/releases/tag/12",
-  "id": 77419516,
+  "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/77548688",
+  "assets_url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/77548688/assets",
+  "upload_url": "https://uploads.github.com/repos/revanced-apks/revanced-apks/releases/77548688/assets{?name,label}",
+  "html_url": "https://github.com/revanced-apks/revanced-apks/releases/tag/13",
+  "id": 77548688,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOH946GM4EnVP8",
-  "tag_name": "12",
+  "node_id": "RE_kwDOH946GM4En0yQ",
+  "tag_name": "13",
   "target_commitish": "main",
   "name": "revanced",
   "draft": false,
   "prerelease": false,
-  "created_at": "2022-09-15T22:50:48Z",
-  "published_at": "2022-09-16T17:54:29Z",
+  "created_at": "2022-09-19T13:25:19Z",
+  "published_at": "2022-09-19T13:30:48Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78103470",
-      "id": 78103470,
-      "node_id": "RA_kwDOH946GM4Ep8Ou",
+      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78345006",
+      "id": 78345006,
+      "node_id": "RA_kwDOH946GM4Eq3Mu",
       "name": "music-revanced-v5.23.50-arm-v7a.apk",
       "label": "",
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 55655308,
-      "download_count": 4,
-      "created_at": "2022-09-16T17:54:29Z",
-      "updated_at": "2022-09-16T17:54:31Z",
-      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/12/music-revanced-v5.23.50-arm-v7a.apk"
+      "size": 55651212,
+      "download_count": 0,
+      "created_at": "2022-09-19T13:30:49Z",
+      "updated_at": "2022-09-19T13:30:51Z",
+      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/13/music-revanced-v5.23.50-arm-v7a.apk"
     },
     {
-      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78103471",
-      "id": 78103471,
-      "node_id": "RA_kwDOH946GM4Ep8Ov",
+      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78345009",
+      "id": 78345009,
+      "node_id": "RA_kwDOH946GM4Eq3Mx",
       "name": "music-revanced-v5.23.50-arm64-v8a.apk",
       "label": "",
       "uploader": {
@@ -95,16 +95,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 64842610,
-      "download_count": 2,
-      "created_at": "2022-09-16T17:54:32Z",
-      "updated_at": "2022-09-16T17:54:33Z",
-      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/12/music-revanced-v5.23.50-arm64-v8a.apk"
+      "size": 64801650,
+      "download_count": 0,
+      "created_at": "2022-09-19T13:30:51Z",
+      "updated_at": "2022-09-19T13:30:53Z",
+      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/13/music-revanced-v5.23.50-arm64-v8a.apk"
     },
     {
-      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78103472",
-      "id": 78103472,
-      "node_id": "RA_kwDOH946GM4Ep8Ow",
+      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78345013",
+      "id": 78345013,
+      "node_id": "RA_kwDOH946GM4Eq3M1",
       "name": "reddit-revanced-v2022.34.0-all.apk",
       "label": "",
       "uploader": {
@@ -129,17 +129,17 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 204842744,
-      "download_count": 2,
-      "created_at": "2022-09-16T17:54:34Z",
-      "updated_at": "2022-09-16T17:54:39Z",
-      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/12/reddit-revanced-v2022.34.0-all.apk"
+      "size": 203536120,
+      "download_count": 0,
+      "created_at": "2022-09-19T13:30:54Z",
+      "updated_at": "2022-09-19T13:30:58Z",
+      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/13/reddit-revanced-v2022.34.0-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78103481",
-      "id": 78103481,
-      "node_id": "RA_kwDOH946GM4Ep8O5",
-      "name": "tiktok-revanced-v26.1.3-all.apk",
+      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78345025",
+      "id": 78345025,
+      "node_id": "RA_kwDOH946GM4Eq3NB",
+      "name": "tiktok-revanced-v26.2.3-all.apk",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -163,16 +163,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 272227863,
-      "download_count": 1,
-      "created_at": "2022-09-16T17:54:40Z",
-      "updated_at": "2022-09-16T17:54:46Z",
-      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/12/tiktok-revanced-v26.1.3-all.apk"
+      "size": 275812964,
+      "download_count": 0,
+      "created_at": "2022-09-19T13:30:59Z",
+      "updated_at": "2022-09-19T13:31:05Z",
+      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/13/tiktok-revanced-v26.2.3-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78103486",
-      "id": 78103486,
-      "node_id": "RA_kwDOH946GM4Ep8O-",
+      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78345034",
+      "id": 78345034,
+      "node_id": "RA_kwDOH946GM4Eq3NK",
       "name": "twitter-revanced-v9.58.1-release.0-all.apk",
       "label": "",
       "uploader": {
@@ -197,17 +197,17 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 131712584,
-      "download_count": 3,
-      "created_at": "2022-09-16T17:54:47Z",
-      "updated_at": "2022-09-16T17:54:50Z",
-      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/12/twitter-revanced-v9.58.1-release.0-all.apk"
+      "size": 131601992,
+      "download_count": 0,
+      "created_at": "2022-09-19T13:31:06Z",
+      "updated_at": "2022-09-19T13:31:09Z",
+      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/13/twitter-revanced-v9.58.1-release.0-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78103490",
-      "id": 78103490,
-      "node_id": "RA_kwDOH946GM4Ep8PC",
-      "name": "youtube-revanced-v17.33.42-all.apk",
+      "url": "https://api.github.com/repos/revanced-apks/revanced-apks/releases/assets/78345040",
+      "id": 78345040,
+      "node_id": "RA_kwDOH946GM4Eq3NQ",
+      "name": "youtube-revanced-v17.36.37-all.apk",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -231,14 +231,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 119770684,
-      "download_count": 10,
-      "created_at": "2022-09-16T17:54:51Z",
-      "updated_at": "2022-09-16T17:54:53Z",
-      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/12/youtube-revanced-v17.33.42-all.apk"
+      "size": 115672233,
+      "download_count": 0,
+      "created_at": "2022-09-19T13:31:10Z",
+      "updated_at": "2022-09-19T13:31:12Z",
+      "browser_download_url": "https://github.com/revanced-apks/revanced-apks/releases/download/13/youtube-revanced-v17.36.37-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/revanced-apks/revanced-apks/tarball/12",
-  "zipball_url": "https://api.github.com/repos/revanced-apks/revanced-apks/zipball/12",
-  "body": "2022-09-16\n \nCLI: revanced-cli-2.11.0-all.jar \nIntegrations: app-release-unsigned-v0.37.3.apk \nPatches: revanced-patches-2.57.0.jar \n[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.57.0) \n\nTwitter version: 9.58.1-release.0 \n\nReddit version: 2022.34.0 \n\nTikTok version: 26.1.3 \n\nYouTube version: 17.33.42 \n\nMusic (arm64-v8a) version: 5.23.50 \n\nMusic (arm-v7a) version: 5.23.50 \n\n[revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)"
+  "tarball_url": "https://api.github.com/repos/revanced-apks/revanced-apks/tarball/13",
+  "zipball_url": "https://api.github.com/repos/revanced-apks/revanced-apks/zipball/13",
+  "body": "2022-09-19\n \nCLI: revanced-cli-2.11.0-all.jar \nIntegrations: app-release-unsigned-v0.37.4.apk \nPatches: revanced-patches-2.59.0.jar \n[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.59.0) \n\nTwitter version: 9.58.1-release.0 \n\nReddit version: 2022.34.0 \n\nTikTok version: 26.2.3 \n\nYouTube version: 17.36.37 \n\nMusic (arm64-v8a) version: 5.23.50 \n\nMusic (arm-v7a) version: 5.23.50 \n\n[revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)"
 }
