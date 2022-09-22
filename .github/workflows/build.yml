@@ -1,11 +1,6 @@
 name: Build Modules
 on:
   workflow_call:
-    secrets:
-      TELEGRAM_TO:
-        required: true
-      TELEGRAM_TOKEN:
-        required: true
   workflow_dispatch:
 
 jobs:
@@ -114,10 +109,3 @@ jobs:
           skip_checkout: true
           file_pattern: latest_build.md *.json
           commit_message: Bump version ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
-
-  notify:
-    needs: run
-    uses: ./.github/workflows/notify.yml
-    secrets:
-      TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
-      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
